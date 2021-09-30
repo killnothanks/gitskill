@@ -6,3 +6,4 @@ Creating a new branch is quick and simple
 
 now dev
 add new message
+add new message2
